@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #header {
     position:absolute; 
     background: #4aaaa5;
@@ -83,3 +84,24 @@ footer {
     flex-shrink:0;
     
     }
+=======
+
+li {
+    display: inline;
+    
+}
+
+ul {
+    
+    background-color: #4aaaa5;
+    padding: 20px;
+}
+
+h1 {
+    color:#4aaaa5;
+}
+
+body{
+background-color: #ffffff
+}
+>>>>>>> db9a3ba03a8bdff2fec593cdca807321de334b7f
