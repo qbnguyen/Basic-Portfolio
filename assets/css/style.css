@@ -1,0 +1,85 @@
+#header {
+    position:absolute; 
+    background: #4aaaa5;
+    padding: 20px;
+margin-left:100px;
+margin-top: 27px;
+color: white;
+font-size: 35px;
+font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    
+}
+
+li {
+    float: right;
+    
+   
+}
+
+li a {
+    display: block;
+    color: #666666;
+    text-align: center;
+    padding: 45px 49px;
+    text-decoration: none;
+    border-bottom-color: #777777;
+    border-bottom: 2px;
+   
+}
+
+
+h1 {
+    color:#4aaaa5;
+    padding: 5px;
+    }
+
+img {
+    position: relative;
+    float: left;
+}
+
+.para {
+    content: 960px;
+    height:600px;
+    background:#ffffff;
+    
+    font: #777777;
+    position: relative;
+    
+}
+
+p {
+
+    display: inline;
+    letter-spacing: 1 em;
+}
+
+
+body{
+    background: url("../image/qbkls/qbkls.png")
+    }
+
+
+
+
+footer {
+    
+    padding: 20px;
+    background-color:#666666;
+    text-align: center;
+    border-top: 5px;
+    font-size: 10px;
+    flex-shrink:0;
+    
+    }
